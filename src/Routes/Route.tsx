@@ -3,6 +3,6 @@ import App from "@/App";
 import HomePage from "@/Pages/HomePage/HomePage";
 
 export const router = createBrowserRouter([
-  { path: "/", element: <App /> },
-  { path: "/home", element: <HomePage /> },
+  { path: "/", element: <HomePage /> },
+  { path: "/home", element: <App /> },
 ]);

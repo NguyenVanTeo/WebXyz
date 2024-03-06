@@ -11,7 +11,7 @@ function App() {
         
       </div>
       <p className="read-the-docs">
-        Ngày mới tôt lành!
+        Ngày mới tôt lành!!
       </p>
     </>
   )
